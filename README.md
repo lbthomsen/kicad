@@ -1,2 +1,4 @@
 # kicad
-My Kicad Symbols and Footprints
+My personal Kicad Symbols and Footprints!
+
+Notice - there is absolutely no guarantee that any of these will work.
